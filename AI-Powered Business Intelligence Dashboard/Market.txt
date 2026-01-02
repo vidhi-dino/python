@@ -1,0 +1,16 @@
+
+Retail Market Trends Analysis - 2024 Q2
+-------------------------------------------------------------
+- Growth in online channels up by 14.6% in North region (source uncertain).
+- Offline purchases dropped in tier-2 cities by 8 to 10 percent approx.
+- Top-performing segments: Electronics (esp. accessories), followed by Clothing.
+- Noted customer complaints regarding delays (ref: delivery_ops_issues2024).
+- Revenue peak during mid-April due to unseasonal discount campaigns.
+
+Major Risk: Channel-wise logistics inconsistency & unstable fuel pricing.
+
+Survey feedback:
+"teh support team was amazing" ~ East Zone Rep
+"Groceries segment suffered due to late restocks" ~ South Ops Manager
+
+Conclusion: Maintain focus on supply-side efficiency & automated pricing engines.

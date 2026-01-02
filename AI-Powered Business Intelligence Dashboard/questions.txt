@@ -1,0 +1,83 @@
+Analysis Needed
+
+ Accepts user questions in natural language.
+
+- Parses and understands data from a messy 85,000+ row dataset.
+
+- Reads additional context from board meeting PDF and market summary TXT.
+
+- Uses GPT to generate business insights from combined data sources.
+
+- Deploys the chatbot using Streamlit locally or on the web.
+
+
+
+
+
+
+
+Files Provided:
+
+- customer_orders_large_messy.csv
+
+- market_trends_summary.txt
+
+- board_meeting_2024_summary.pdf
+
+- mock_project_questions.txt
+
+
+
+
+
+
+
+1. What were the top 3 performing product categories in Q2 2023 across all regions?
+
+2. Identify which region underperformed consistently across 2021 to 2023.
+
+3. Compare online vs retail channel performance over the past two years.
+
+4. Highlight the top 5 customer issues mentioned in order notes.
+
+5. What seasonal patterns are visible in revenue from 2020 to 2024?
+
+6. Was there a revenue dip post board meeting review in early 2024?
+
+7. How did the footwear category perform in the South region during 2023?
+
+8. Summarize the trends described in the market_trends_summary.txt file.
+
+9. What strategic risks were highlighted in the board meeting notes?
+
+10. List key action points for Q3 2024 from the board meeting PDF.
+
+11. Is there a connection between unstructured feedback and product return rates?
+
+12. Which sales channel (wholesale/retail/online) showed the most growth in 2022?
+
+13. Which customer region reported the highest satisfaction in chatbot testing?
+
+14. Find and fix inconsistencies or missing data in 'Product Category' or 'Region'.
+
+15. Calculate revenue loss due to incorrect or missing order records.
+
+16. Generate a product-wise quarterly revenue trend graph from 2021–2024.
+
+17. Based on revenue, rank all product categories for FY 2023.
+
+18. Identify duplicate or suspicious order entries based on notes or price.
+
+19. Summarize revenue performance by combining insights from PDF + CSV.
+
+20. Which month in the entire dataset saw the highest units sold?
+
+21. Create a Streamlit visualization comparing 2022 vs 2024 sales.
+
+22. Analyze and suggest how chatbot impacted customer feedback patterns.
+
+23. Which product had the highest unit price variance in North and West?
+
+24. Predict future Q1 2025 trends based on historical market performance.
+
+25. Summarize impact of logistics issues mentioned in the TXT file on delivery.
